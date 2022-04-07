@@ -1,0 +1,12 @@
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\bin\Debug\Proyecto_Final_TAPU1.exe.config
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\bin\Debug\Proyecto_Final_TAPU1.exe
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\bin\Debug\Proyecto_Final_TAPU1.pdb
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\obj\Debug\Proyecto_Final_TAPU1.csprojAssemblyReference.cache
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\obj\Debug\Proyecto_Final_TAPU1.FrmLogin.resources
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\obj\Debug\Proyecto_Final_TAPU1.Properties.Resources.resources
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\obj\Debug\Proyecto_Final_TAPU1.csproj.GenerateResource.cache
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\obj\Debug\Proyecto_Final_TAPU1.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\obj\Debug\Proyecto_Final_TAPU1.exe
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\obj\Debug\Proyecto_Final_TAPU1.pdb
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\obj\Debug\Proyecto_Final_TAPU1.PIDETEC.resources
+C:\Users\Javier\source\repos\Proyecto_Final_TAPU1\Proyecto_Final_TAPU1\obj\Debug\Proyecto_Final_TAPU1.FrmImagenes.resources
